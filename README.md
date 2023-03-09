@@ -6,15 +6,25 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+
 ## Comandos usados
+
 laravel new examen_laravel
+
 composer require laravel/breeze
+
 php artisan breeze:install
+
 npm install
+
 npm run dev
+
 php artisan serve &
+
 php artisan make:model Alumno
+
 php artisan migrate:fresh –seed
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
